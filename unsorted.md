@@ -1,141 +1,212 @@
-# Unsorted
-
-*WARNING*: The following links are just what I've collected.  They have not been verified for any kind of quality or content.
-
-## Books
-
-- [Crimeware: Understanding New Attacks and Defenses](https://www.amazon.com/gp/product/321501949/ref=as_li_tf_tl?ie=UTF8&tag=counterpane&linkCode=as2&camp=1789&creative=9325&creativeASIN=0321501950)
-- [Giant Black Book of Computer Viruses](https://www.amazon.com/gp/product/929408232/ref=as_li_tf_tl?ie=UTF8&tag=counterpane&linkCode=as2&camp=1789&creative=9325&creativeASIN=0929408233)
-- [Hacking Exposed](https://www.amazon.com/s?k=Hacking+Exposed+Series&i=stripbooks&camp=1788&creative=9325&linkCode=ur2&tag=counterpane)
-- [The New School of Information Security](https://www.amazon.com/gp/product/321814907/ref=as_li_tf_tl?ie=UTF8&tag=counterpane&linkCode=as2&camp=1789&creative=9325&creativeASIN=0321814908)
-- [Security Engineering: A Guide to Building Dependable Distributed Systems](https://www.amazon.com/gp/product/470068522/ref=as_li_tf_tl?ie=UTF8&tag=counterpane&linkCode=as2&camp=1789&creative=9325&creativeASIN=0470068523)
-
-## Resources
-
-- [4 Steps to Immerse Yourself in cyber Security](https://www.sans.org/blog/top-5-steps-to-immerse-yourself-into-the-cybersecurity-field/)
-- [Backtrack Linux (now Kali)](https://www.backtrack-linux.org/)
-- [CVE Details](https://www.cvedetails.com/product/18130/Centos-Centos.html?vendor_id=10167)
-- [Hack This Site](http://www.hackthissite.org/)
-- [How and Why You should Build a Home Lab (Video)](https://www.youtube.com/watch?v=CL1Ng191KQE)
-- [How to achieve enterprise-grade attach-surface monitoring with open source software](https://hakluke.com/open-source-asm-spiderfoot/)
-- [How to build a cybersecurity career](https://danielmiessler.com/blog/build-successful-infosec-career/)
-- [Maltego](https://wondersmithrae.medium.com/a-beginners-guide-to-osint-investigation-with-maltego-7b195f7245cc)
-- [Metasploit](https://www.metasploit.com/)
-- [Metaspolitable 1](https://www.rapid7.com/blog/post/2012/06/13/introducing-metasploitable-2/)
-- [Mutillidae](http://www.irongeek.com/i.php?page=mutillidae/mutillidae-deliberately-vulnerable-php-owasp-top-11)
-- [OWASP WebGoat](https://owasp.org/www-project-webgoat/)
-- [SANS Mailing Lists](https://lists.sans.org/mailman/listinfo/dfir)
-- [SecLists](https://seclists.org/)
-- [GPS Jam](https://gpsjam.org/)
-
-## Training
-
-- [Backtrack Linux Tutorials](http://www.backtrack-linux.org/tutorials/)
-- [Metaspolit Unleashed](https://www.offensive-security.com/metasploit-unleashed/)
-- [RangeForce](https://go.rangeforce.com/community-edition-registration)
-- [Cybrary](https://www.cybrary.it/)
-- [TCP/IP Weapons School](https://www.blackhat.com/html/bh-us-13/training/courses/bh-us-12-training_TS-tcpip.html)
-
-## Articles
-
-- [Self-Study Course in Block-Cipher Cryptanalysis](https://www.schneier.com/wp-content/uploads/2014/01/paper-self-study.pdf)
-
-## Stuff found on Twitter
-
-- https://twitter.com/lindavivah/status/1568261809743839234?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/davidbombal/status/1568240208667099139?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/librarymindset/status/1568451584929169411?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/three_cube/status/1567867486338691072?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/Dinosn/status/1568065533089665025?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/ujjwalscript/status/1568082465411178497?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/campuscodi/status/1568081761631801344?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/BuzzFeed/status/1567838535951974403?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/BleepinComputer/status/1567958501179424768?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/notshenetworks/status/1567646897556398082?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/sec_r0/status/1567922946374516739?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/pilatesdev/status/1566838136054988800?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/swapnakpanda/status/1566740489608790016?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/Dinosn/status/1566754115937607683?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/DfirDiva/status/1566498997149356033?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/UK_Daniel_Card/status/1566432540411498496?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/BleepinComputer/status/1566398720723361794?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/bellingcat/status/1566380552214794242?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/0x0SojalSec/status/1566108606491394048?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/SatyenKumar/status/1566069300942749696?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/OSINTtechniques/status/1566077505286840325?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/ohshint_/status/1565802445175140352?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/sans_isc/status/1565974349617795072?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/UK_Daniel_Card/status/1565988809510211585?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/campuscodi/status/1565951978089463808?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/GuidesJava/status/1565624060804882432?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/GuidesJava/status/1565245036421255169?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/tiberianorder/status/1565299850601709569?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/rothgar/status/1564659962923536385?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/techbaenisha/status/1564632055975223303?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/C0axx/status/1564807827520118791?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/spiderfoot/status/1564554271311466502?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/GuidesJava/status/1564494664387833856?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/Kevin2600/status/1564227030270484480?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/LetsDefendIO/status/1564268479271866371?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/manash036/status/1564205671280934913?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/InfosecMonk/status/1564257535028502528?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/GuidesJava/status/1563396351894757376?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/netspooky/status/1563213307292499971?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/startme/status/1563225274673942532?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/sec_r0/status/1562847263734788096?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/bughuntar/status/1562516221438078976?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/DarknetDiaries/status/1562077425428742144?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/shipilev/status/1561637440938541056?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/hetmehtaa/status/1561681412515803137?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/bluemonkey4n6/status/1561787407573438466?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/Ubahroon/status/1561507998144626689?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/likethecoins/status/1561716067205914624?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/UdiDahan/status/1561318402316279810?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/imabhisarpandey/status/1561035867031883776?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/three_cube/status/1561497094157832192?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/DfirDiva/status/1560786369672265728?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/BCSecurity1/status/1560248566060388352?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/SystemSunday/status/1559878868399423488?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/binitamshah/status/1559527023827369990?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/bunsofwrath12/status/1559193784671404034?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/shortxstack/status/1558484914051457025?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/GuidesJava/status/1556482072356671488?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/gregyoung/status/1555944476786524161?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/vxunderground/status/1554601357944000514?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/jh3yy/status/1554310426682281988?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/Insharamin/status/1554160501550358528?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/0x1shu/status/1553761881822986241?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/ceejbot/status/1553573796870643712?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/MikeTamir/status/1553183858039963648?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/GirlsCanHack/status/1546942817607499776?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/NandanLohitaksh/status/1546929351773413377?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/0gtweet/status/1547126673459630080?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/Cyb3rMonk/status/1546530888913227776?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/TCMSecurity/status/1546577290016038912?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/fancy_4n6/status/1546287696137826304?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/Rainmaker1973/status/1543920688632922115?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/notshenetworks/status/1538661728266997760?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/TCMSecurity/status/1538629626456485888?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/DThompsonDev/status/1538614314675978243?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/Purp1eW0lf/status/1524369900386537474?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/UK_Daniel_Card/status/1533532219859472393?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/ChristinaLekati/status/1528362396208750594?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/krisnova/status/1527434218187505677?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/GreaterGoodest/status/1526702716663242754?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/notshenetworks/status/1525487050186694657?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/theXSSrat/status/1524128525208498176?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/CristiVlad25/status/1523271326336950272?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/binitamshah/status/1523146481741742080?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/medusa_0xf/status/1512301446271680517?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/0xLupin/status/1512053102488264709?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/0xLupin/status/1512002655853461506?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/payloadartist/status/1510274595936702473?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/ineedsleeps/status/1506725469328228353?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/mrgretzky/status/1503855343423660038?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/binitamshah/status/1491423682346233859?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/SwiftOnSecurity/status/536358933351264257?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/jstrosch/status/1479528572398317569?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/jesswade/status/1479176192527847425?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/4n6lady/status/1479215037252345862?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/AbbyMCH/status/1478733155783880711?s=20&t=OBzCNt_niQROiDqf-8RJmQ
-- https://twitter.com/HydroponicTrash/status/1463180164288950272?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/0dayCTF/status/1571872658781790211?s=20&t=qUBknUxyULxEtnFGMXM7EQ
+https://twitter.com/0gtweet/status/1547126673459630080?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/0x0SojalSec/status/1566108606491394048?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/0x0SojalSec/status/1579305809812807680?s=20&t=D0p-ZP4RKMFuT4Gm8tRu3g
+https://twitter.com/0x1shu/status/1553761881822986241?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/0xLupin/status/1512002655853461506?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/0xLupin/status/1512053102488264709?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/0x_rood/status/1572914133942652931?s=20&t=D0p-ZP4RKMFuT4Gm8tRu3g
+https://twitter.com/0x_rood/status/1576259098110496768?s=20&t=D0p-ZP4RKMFuT4Gm8tRu3g
+https://twitter.com/4n6lady/status/1479215037252345862?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/4n6lady/status/1574259801420595201?s=20&t=D0p-ZP4RKMFuT4Gm8tRu3g
+https://twitter.com/7h3h4ckv157/status/1575875803744591872?s=20&t=D0p-ZP4RKMFuT4Gm8tRu3g
+https://twitter.com/ADurrante/status/1578052630043140101?s=20&t=D0p-ZP4RKMFuT4Gm8tRu3g
+https://twitter.com/AbbyMCH/status/1478733155783880711?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/Alh4zr3d/status/1578406155453276160?s=20&t=D0p-ZP4RKMFuT4Gm8tRu3g
+https://twitter.com/Alh4zr3d/status/1579480750633947136?s=20&t=D0p-ZP4RKMFuT4Gm8tRu3g
+https://twitter.com/Alh4zr3d/status/1579837798101946368?s=20&t=qUBknUxyULxEtnFGMXM7EQ
+https://twitter.com/AllForOsint/status/1573559897127407616?s=20&t=D0p-ZP4RKMFuT4Gm8tRu3g
+https://twitter.com/BCSecurity1/status/1560248566060388352?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/Bandrel/status/1571576912618688512?s=20&t=qUBknUxyULxEtnFGMXM7EQ
+https://twitter.com/BleepinComputer/status/1566398720723361794?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/BleepinComputer/status/1567958501179424768?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/BleepinComputer/status/1575139645008093187?s=20&t=D0p-ZP4RKMFuT4Gm8tRu3g
+https://twitter.com/BuzzFeed/status/1567838535951974403?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/C0axx/status/1564807827520118791?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/ChristinaLekati/status/1528362396208750594?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/CristiVlad25/status/1523271326336950272?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/CristiVlad25/status/1579467516476551170?s=20&t=D0p-ZP4RKMFuT4Gm8tRu3g
+https://twitter.com/Cyb3rMonk/status/1546530888913227776?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/DThompsonDev/status/1538614314675978243?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/DarknetDiaries/status/1562077425428742144?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/David3141593/status/1574500106623238152?s=20&t=D0p-ZP4RKMFuT4Gm8tRu3g
+https://twitter.com/DfirDiva/status/1560786369672265728?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/DfirDiva/status/1566498997149356033?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/Dinosn/status/1566754115937607683?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/Dinosn/status/1568065533089665025?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/Dinosn/status/1579440830351568897?s=20&t=D0p-ZP4RKMFuT4Gm8tRu3g
+https://twitter.com/Gerald_Auger/status/1575856775781384192?s=20&t=D0p-ZP4RKMFuT4Gm8tRu3g
+https://twitter.com/Gerald_Auger/status/1578748335464206339?s=20&t=D0p-ZP4RKMFuT4Gm8tRu3g
+https://twitter.com/GirlsCanHack/status/1546942817607499776?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/GreaterGoodest/status/1526702716663242754?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/GuidesJava/status/1556482072356671488?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/GuidesJava/status/1563396351894757376?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/GuidesJava/status/1564494664387833856?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/GuidesJava/status/1565245036421255169?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/GuidesJava/status/1565624060804882432?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/GuidesJava/status/1569935113806565377?s=20&t=qUBknUxyULxEtnFGMXM7EQ
+https://twitter.com/GuidesJava/status/1570059921588109313?s=20&t=qUBknUxyULxEtnFGMXM7EQ
+https://twitter.com/GuidesJava/status/1570262950732242944?s=20&t=qUBknUxyULxEtnFGMXM7EQ
+https://twitter.com/GuidesJava/status/1570600987101888514?s=20&t=qUBknUxyULxEtnFGMXM7EQ
+https://twitter.com/GuidesJava/status/1570813736889495552?s=20&t=qUBknUxyULxEtnFGMXM7EQ
+https://twitter.com/GuidesJava/status/1570965136134864900?s=20&t=qUBknUxyULxEtnFGMXM7EQ
+https://twitter.com/GuidesJava/status/1572604770225098752?s=20&t=D0p-ZP4RKMFuT4Gm8tRu3g
+https://twitter.com/HackerGautam/status/1578964594252357632?s=20&t=D0p-ZP4RKMFuT4Gm8tRu3g
+https://twitter.com/Hakin9/status/1570938586127556608?s=20&t=qUBknUxyULxEtnFGMXM7EQ
+https://twitter.com/Hakin9/status/1572766883216035843?s=20&t=D0p-ZP4RKMFuT4Gm8tRu3g
+https://twitter.com/HydroponicTrash/status/1463180164288950272?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/HydroponicTrash/status/1463180164288950272?s=20&t=qUBknUxyULxEtnFGMXM7EQ
+https://twitter.com/InfosecMonk/status/1564257535028502528?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/Insharamin/status/1554160501550358528?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/Insharamin/status/1571788158748196865?s=20&t=qUBknUxyULxEtnFGMXM7EQ
+https://twitter.com/JS_Dojo/status/1579128446839816192?s=20&t=D0p-ZP4RKMFuT4Gm8tRu3g
+https://twitter.com/Kevin2600/status/1564227030270484480?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/KevinPagano3/status/1569315888217612289?s=20&t=qUBknUxyULxEtnFGMXM7EQ
+https://twitter.com/LetsDefendIO/status/1564268479271866371?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/LetsDefendIO/status/1570075655089410049?s=20&t=qUBknUxyULxEtnFGMXM7EQ
+https://twitter.com/LetsDefendIO/status/1573686952536186885?s=20&t=D0p-ZP4RKMFuT4Gm8tRu3g
+https://twitter.com/LetsDefendIO/status/1576232986202324992?s=20&t=D0p-ZP4RKMFuT4Gm8tRu3g
+https://twitter.com/LetsDefendIO/status/1579856899192692743?s=20&t=qUBknUxyULxEtnFGMXM7EQ
+https://twitter.com/LinuxHandbook/status/1569315612026978304?s=20&t=qUBknUxyULxEtnFGMXM7EQ
+https://twitter.com/ManieshNeupane/status/1569647860421099520?s=20&t=qUBknUxyULxEtnFGMXM7EQ
+https://twitter.com/ManieshNeupane/status/1572126616897331202?s=20&t=D0p-ZP4RKMFuT4Gm8tRu3g
+https://twitter.com/ManieshNeupane/status/1572126616897331202?s=20&t=qUBknUxyULxEtnFGMXM7EQ
+https://twitter.com/ManieshNeupane/status/1573549494175944704?s=20&t=D0p-ZP4RKMFuT4Gm8tRu3g
+https://twitter.com/ManieshNeupane/status/1573706500035739654?s=20&t=D0p-ZP4RKMFuT4Gm8tRu3g
+https://twitter.com/MeAsHacker_HNA/status/1570646160200572928?s=20&t=qUBknUxyULxEtnFGMXM7EQ
+https://twitter.com/MikeTamir/status/1553183858039963648?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/MrDamanSingh/status/1572603612949250050?s=20&t=D0p-ZP4RKMFuT4Gm8tRu3g
+https://twitter.com/NSA_CSDirector/status/1577235281396527105?s=20&t=D0p-ZP4RKMFuT4Gm8tRu3g
+https://twitter.com/NandanLohitaksh/status/1546929351773413377?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/NandanLohitaksh/status/1572421606001221635?s=20&t=D0p-ZP4RKMFuT4Gm8tRu3g
+https://twitter.com/NikkiSiapno/status/1569969914282217472?s=20&t=qUBknUxyULxEtnFGMXM7EQ
+https://twitter.com/OSINTtechniques/status/1566077505286840325?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/PhD_Security/status/1578418516025147393?s=20&t=D0p-ZP4RKMFuT4Gm8tRu3g
+https://twitter.com/Purp1eW0lf/status/1524369900386537474?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/Rainmaker1973/status/1543920688632922115?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/ReconOne_bk/status/1571420555760246784?s=20&t=qUBknUxyULxEtnFGMXM7EQ
+https://twitter.com/Recon_InfoSec/status/1574421089320669185?s=20&t=D0p-ZP4RKMFuT4Gm8tRu3g
+https://twitter.com/Rhynorater/status/1579499221954473984?s=20&t=D0p-ZP4RKMFuT4Gm8tRu3g
+https://twitter.com/RidT/status/1571852815982551041?s=20&t=qUBknUxyULxEtnFGMXM7EQ
+https://twitter.com/Saboo_Shubham_/status/1575158396566884353?s=20&t=D0p-ZP4RKMFuT4Gm8tRu3g
+https://twitter.com/Sandbagger_01/status/1570685347419525121?s=20&t=qUBknUxyULxEtnFGMXM7EQ
+https://twitter.com/SatyenKumar/status/1566069300942749696?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/SecurityTube/status/1570993454435409924?s=20&t=qUBknUxyULxEtnFGMXM7EQ
+https://twitter.com/SwiftOnSecurity/status/1490513772628234243?s=20&t=qUBknUxyULxEtnFGMXM7EQ
+https://twitter.com/SwiftOnSecurity/status/536358933351264257?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/SystemSunday/status/1559878868399423488?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/TCMSecurity/status/1538629626456485888?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/TCMSecurity/status/1546577290016038912?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/TheConquerMM/status/1570734535998054403?s=20&t=qUBknUxyULxEtnFGMXM7EQ
+https://twitter.com/ThePrimeagen/status/1569796242258944000?s=20&t=qUBknUxyULxEtnFGMXM7EQ
+https://twitter.com/UK_Daniel_Card/status/1533532219859472393?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/UK_Daniel_Card/status/1565988809510211585?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/UK_Daniel_Card/status/1566432540411498496?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/UK_Daniel_Card/status/1571454171806670850?s=20&t=qUBknUxyULxEtnFGMXM7EQ
+https://twitter.com/Ubahroon/status/1561507998144626689?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/UdiDahan/status/1561318402316279810?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/YiMaTweets/status/1579346911206985728?s=20&t=D0p-ZP4RKMFuT4Gm8tRu3g
+https://twitter.com/__steele/status/1570208081296134145?s=20&t=qUBknUxyULxEtnFGMXM7EQ
+https://twitter.com/_bagipro/status/1572569994512461827?s=20&t=D0p-ZP4RKMFuT4Gm8tRu3g
+https://twitter.com/adafruit/status/1575476501285314562?s=20&t=qUBknUxyULxEtnFGMXM7EQ
+https://twitter.com/alexxubyte/status/1572614943811440642?s=20&t=D0p-ZP4RKMFuT4Gm8tRu3g
+https://twitter.com/bellingcat/status/1566380552214794242?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/binitamshah/status/1491423682346233859?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/binitamshah/status/1523146481741742080?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/binitamshah/status/1559527023827369990?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/bishopfox/status/1573465967773949952?s=20&t=D0p-ZP4RKMFuT4Gm8tRu3g
+https://twitter.com/bluemonkey4n6/status/1561787407573438466?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/bughuntar/status/1562516221438078976?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/bunsofwrath12/status/1559193784671404034?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/campuscodi/status/1565951978089463808?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/campuscodi/status/1568081761631801344?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/ceejbot/status/1553573796870643712?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/chadtilbury/status/1570440052047753216?s=20&t=qUBknUxyULxEtnFGMXM7EQ
+https://twitter.com/chrissanders88/status/1579838699130744832?s=20&t=qUBknUxyULxEtnFGMXM7EQ
+https://twitter.com/cillic/status/1577313881797660673?s=20&t=D0p-ZP4RKMFuT4Gm8tRu3g
+https://twitter.com/cyb3rops/status/1570122577305128963?s=20&t=qUBknUxyULxEtnFGMXM7EQ
+https://twitter.com/cyb_detective/status/1569873440064118786?s=20&t=qUBknUxyULxEtnFGMXM7EQ
+https://twitter.com/danielmakelley/status/1570910911078207488?s=20&t=qUBknUxyULxEtnFGMXM7EQ
+https://twitter.com/davidbombal/status/1568240208667099139?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/djamasiconsult/status/1573864638558642177?s=20&t=D0p-ZP4RKMFuT4Gm8tRu3g
+https://twitter.com/e11i0t_4lders0n/status/1573864909582258176?s=20&t=D0p-ZP4RKMFuT4Gm8tRu3g
+https://twitter.com/e11i0t_4lders0n/status/1578818988708335616?s=20&t=D0p-ZP4RKMFuT4Gm8tRu3g
+https://twitter.com/elsherifX00/status/1572074732698173440?s=20&t=qUBknUxyULxEtnFGMXM7EQ
+https://twitter.com/fancy_4n6/status/1546287696137826304?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/gregyoung/status/1555944476786524161?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/hackinarticles/status/1571046243522183168?s=20&t=qUBknUxyULxEtnFGMXM7EQ
+https://twitter.com/hackinarticles/status/1572489037281390592?s=20&t=D0p-ZP4RKMFuT4Gm8tRu3g
+https://twitter.com/hackinarticles/status/1572491377099022336?s=20&t=D0p-ZP4RKMFuT4Gm8tRu3g
+https://twitter.com/hacks4pancakes/status/1578044100271546369?s=20&t=D0p-ZP4RKMFuT4Gm8tRu3g
+https://twitter.com/haneeni61853819/status/1570449295958241282?s=20&t=qUBknUxyULxEtnFGMXM7EQ
+https://twitter.com/hetmehtaa/status/1561681412515803137?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/hetmehtaa/status/1570101029189869572?s=20&t=qUBknUxyULxEtnFGMXM7EQ
+https://twitter.com/hetmehtaa/status/1572998296498769921?s=20&t=D0p-ZP4RKMFuT4Gm8tRu3g
+https://twitter.com/hetmehtaa/status/1574472052140118040?s=20&t=D0p-ZP4RKMFuT4Gm8tRu3g
+https://twitter.com/ihteshamit/status/1577305411220373506?s=20&t=qUBknUxyULxEtnFGMXM7EQ
+https://twitter.com/ijrussell/status/1579891988400574464?s=20&t=qUBknUxyULxEtnFGMXM7EQ
+https://twitter.com/imabhisarpandey/status/1561035867031883776?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/ineedsleeps/status/1506725469328228353?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/intidc/status/1574263808607997953?s=20&t=D0p-ZP4RKMFuT4Gm8tRu3g
+https://twitter.com/isfridayTV/status/1572987318860140546?s=20&t=D0p-ZP4RKMFuT4Gm8tRu3g
+https://twitter.com/javarevisited/status/1571008182176161793?s=20&t=qUBknUxyULxEtnFGMXM7EQ
+https://twitter.com/jesswade/status/1479176192527847425?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/jh3yy/status/1554310426682281988?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/johnnyxbrown/status/1572212519619497987?s=20&t=D0p-ZP4RKMFuT4Gm8tRu3g
+https://twitter.com/jstrosch/status/1479528572398317569?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/krisnova/status/1527434218187505677?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/lemonodor/status/1553097820860600320?s=20&t=qUBknUxyULxEtnFGMXM7EQ
+https://twitter.com/librarymindset/status/1568451584929169411?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/librarymindset/status/1571504620173938690?s=20&t=qUBknUxyULxEtnFGMXM7EQ
+https://twitter.com/librarymindset/status/1572082393250672640?s=20&t=qUBknUxyULxEtnFGMXM7EQ
+https://twitter.com/likethecoins/status/1561716067205914624?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/lindavivah/status/1568261809743839234?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/linuxopsys/status/1570902869779550208?s=20&t=qUBknUxyULxEtnFGMXM7EQ
+https://twitter.com/madzadev/status/1575789286338748417?s=20&t=D0p-ZP4RKMFuT4Gm8tRu3g
+https://twitter.com/manash036/status/1564205671280934913?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/mattpocockuk/status/1575811782220054534?s=20&t=D0p-ZP4RKMFuT4Gm8tRu3g
+https://twitter.com/medusa_0xf/status/1512301446271680517?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/mrgretzky/status/1503855343423660038?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/mttaggart/status/1572468322289225730?s=20&t=D0p-ZP4RKMFuT4Gm8tRu3g
+https://twitter.com/n00py1/status/1577045510036557824?s=20&t=D0p-ZP4RKMFuT4Gm8tRu3g
+https://twitter.com/n0ipr0cs/status/1576575296542736385?s=20&t=D0p-ZP4RKMFuT4Gm8tRu3g
+https://twitter.com/netspooky/status/1563213307292499971?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/notshenetworks/status/1525487050186694657?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/notshenetworks/status/1538661728266997760?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/notshenetworks/status/1567646897556398082?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/ohshint_/status/1565802445175140352?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/payloadartist/status/1510274595936702473?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/pilatesdev/status/1566838136054988800?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/pokecoder/status/1577650385640214528?s=20&t=D0p-ZP4RKMFuT4Gm8tRu3g
+https://twitter.com/pokecoder/status/1577650385640214528?s=20&t=qUBknUxyULxEtnFGMXM7EQ
+https://twitter.com/rd_rugg/status/1578787581193768960?s=20&t=D0p-ZP4RKMFuT4Gm8tRu3g
+https://twitter.com/rippledj/status/1572764976938627074?s=20&t=D0p-ZP4RKMFuT4Gm8tRu3g
+https://twitter.com/rothgar/status/1564659962923536385?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/runasand/status/1577671609409847297?s=20&t=D0p-ZP4RKMFuT4Gm8tRu3g
+https://twitter.com/ruthmalan/status/1574717026400100353?s=20&t=D0p-ZP4RKMFuT4Gm8tRu3g
+https://twitter.com/sans_isc/status/1565974349617795072?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/sec_r0/status/1562847263734788096?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/sec_r0/status/1567922946374516739?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/sec_r0/status/1574081491948150784?s=20&t=D0p-ZP4RKMFuT4Gm8tRu3g
+https://twitter.com/seth_enoka/status/1570345339856748545?s=20&t=qUBknUxyULxEtnFGMXM7EQ
+https://twitter.com/shad0wbits/status/1579280435410268160?s=20&t=D0p-ZP4RKMFuT4Gm8tRu3g
+https://twitter.com/shipilev/status/1561637440938541056?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/shortxstack/status/1558484914051457025?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/simandsec/status/1572983254050902016?s=20&t=D0p-ZP4RKMFuT4Gm8tRu3g
+https://twitter.com/spiderfoot/status/1564554271311466502?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/startme/status/1563225274673942532?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/swagitda_/status/1570496543714844673?s=20&t=qUBknUxyULxEtnFGMXM7EQ
+https://twitter.com/swapnakpanda/status/1566740489608790016?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/swastika0015/status/1571129349432033280?s=20&t=qUBknUxyULxEtnFGMXM7EQ
+https://twitter.com/tbbhunter/status/1573633369509871616?s=20&t=D0p-ZP4RKMFuT4Gm8tRu3g
+https://twitter.com/techbaenisha/status/1564632055975223303?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/theXSSrat/status/1524128525208498176?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/three_cube/status/1561497094157832192?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/three_cube/status/1567867486338691072?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/three_cube/status/1572349201408983043?s=20&t=D0p-ZP4RKMFuT4Gm8tRu3g
+https://twitter.com/three_cube/status/1573361215526830081?s=20&t=D0p-ZP4RKMFuT4Gm8tRu3g
+https://twitter.com/three_cube/status/1573807969916968960?s=20&t=D0p-ZP4RKMFuT4Gm8tRu3g
+https://twitter.com/tiberianorder/status/1565299850601709569?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/ujjwalscript/status/1568082465411178497?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/vxunderground/status/1554601357944000514?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+https://twitter.com/xsgames_/status/1573638454235332608?s=20&t=D0p-ZP4RKMFuT4Gm8tRu3g

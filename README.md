@@ -22,6 +22,7 @@ Other pages;
 | CTI | Webinar | [The Cycle of Cyber Threat Intelligence](https://www.youtube.com/watch?v=J7e74QLVxCk) | |
 | CTI | Article | [Cyber Treat Intelligence Self-Study Plan](https://medium.com/katies-five-cents/a-cyber-threat-intelligence-self-study-plan-part-1-968b5a8daf9a) | |
 | CTI | Tool | [Your Bias Is](https://yourbias.is/) | |
+| CTI | Source | [CIA Intelligence Literature](https://www.cia.gov/library/intelligence-literature) | |)
 | General | Article | [Socialite, Widow, Jeweller, Spy: How a GRU Agent Charmed Her Way Into NATO Circles in Italy](https://www.bellingcat.com/news/2022/08/25/socialite-widow-jeweller-spy-how-a-gru-agent-charmed-her-way-into-nato-circles-in-italy/) | |
 | General | Tool | [Caary Tokens](https://canarytokens.org/generate) | | |
 | Programming | Book | [Security Engineering: A Guide to Building Dependable Distributed Systems](https://www.amazon.co.uk/Security-Engineering-Building-Dependable-Distributed/dp/0470068523) | |

@@ -4,6 +4,8 @@
 where _I_ found the resource first.  If the credit is wrong, please raise a PR
 or otherwise get in touch!
 
+[SANS: Geolocation resources for OSIN](https://www.sans.org/blog/geolocation-resources-for-osint-investigations/)
+
 vs-underground Papers
 https://www.vx-underground.org/windows.html
 
@@ -18,7 +20,8 @@ Recommendations for Security+ Exam
 > * Professor Messler videos on YouTube
 > * Jason Dion’s Security + training on Udemy
 > * Darril Gibson’s “Get Certified Get Ahead” SY0-501 Study Guide 
-Credit: https://twitter.com/techbaenisha/status/1564632055975223303?s=20&t=OBzCNt_niQROiDqf-8RJmQ
+
+[Credit: @techbaenisha](https://twitter.com/techbaenisha/status/1564632055975223303?s=20&t=OBzCNt_niQROiDqf-8RJmQ)
 
 Making HTTP header injection critical via response queue poisoning
 https://portswigger.net/research/making-http-header-injection-critical-via-response-queue-poisoning
